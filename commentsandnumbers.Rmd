@@ -1,0 +1,15 @@
+---
+title: "Introduction to R: Numbers and Comments"
+output: html_notebook
+---
+
+```{r}
+# Results in 22.33
+67 * 2 / (21 - 15)
+```
+
+```{r}
+# creating a new box
+"My name is Jamisha and I am currently learning R programming langauge!"
+"Hello World!"
+```
